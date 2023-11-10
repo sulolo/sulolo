@@ -1,0 +1,4 @@
+#  Bash Ignore
+/node_modules
+/dist
+
